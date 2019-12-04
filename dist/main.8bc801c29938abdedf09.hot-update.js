@@ -1,0 +1,18 @@
+webpackHotUpdate("main",{
+
+/***/ "./node_modules/_css-loader@3.2.0@css-loader/dist/cjs.js?!./node_modules/_postcss-loader@3.0.0@postcss-loader/src/index.js?!./node_modules/_sass-loader@8.0.0@sass-loader/dist/cjs.js?!./src/style/bg.scss":
+/*!**********************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/_css-loader@3.2.0@css-loader/dist/cjs.js??ref--7-1!./node_modules/_postcss-loader@3.0.0@postcss-loader/src??postcss!./node_modules/_sass-loader@8.0.0@sass-loader/dist/cjs.js??ref--7-3!./src/style/bg.scss ***!
+  \**********************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+exports = module.exports = __webpack_require__(/*! ../../node_modules/_css-loader@3.2.0@css-loader/dist/runtime/api.js */ "./node_modules/_css-loader@3.2.0@css-loader/dist/runtime/api.js")(true);
+// Module
+exports.push([module.i, ".box {\n  background-color: #00f;\n  display: -webkit-box;\n  display: -ms-flexbox;\n  display: flex;\n  -webkit-box-pack: center;\n      -ms-flex-pack: center;\n          justify-content: center; }\n", "",{"version":3,"sources":["/Users/tal/Documents/webpack/webpack4/src/style/bg.scss"],"names":[],"mappings":"AACA;EACE,sBAFa;EAGb,oBAAa;EAAb,oBAAa;EAAb,aAAa;EACb,wBAAuB;MAAvB,qBAAuB;UAAvB,uBAAuB,EAAA","file":"bg.scss","sourcesContent":["$bg-color: #00f;\n.box{\n  background-color: $bg-color;\n  display: flex;\n  justify-content: center;\n  // background: url('./../assets/sky.jpg')\n}"]}]);
+
+
+/***/ })
+
+})
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9zcmMvc3R5bGUvYmcuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7Ozs7Ozs7QUFBQSwyQkFBMkIsbUJBQU8sQ0FBQyw0SUFBcUU7QUFDeEc7QUFDQSxjQUFjLFFBQVMsU0FBUywyQkFBMkIseUJBQXlCLHlCQUF5QixrQkFBa0IsNkJBQTZCLDhCQUE4QixvQ0FBb0MsRUFBRSxTQUFTLDhHQUE4RyxXQUFXLFdBQVcsV0FBVyxVQUFVLFlBQVksYUFBYSx1RUFBdUUsT0FBTyxnQ0FBZ0Msa0JBQWtCLDRCQUE0QixnREFBZ0QsR0FBRyIsImZpbGUiOiJtYWluLjhiYzgwMWMyOTkzOGFiZGVkZjA5LmhvdC11cGRhdGUuanMiLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnRzID0gbW9kdWxlLmV4cG9ydHMgPSByZXF1aXJlKFwiLi4vLi4vbm9kZV9tb2R1bGVzL19jc3MtbG9hZGVyQDMuMi4wQGNzcy1sb2FkZXIvZGlzdC9ydW50aW1lL2FwaS5qc1wiKSh0cnVlKTtcbi8vIE1vZHVsZVxuZXhwb3J0cy5wdXNoKFttb2R1bGUuaWQsIFwiLmJveCB7XFxuICBiYWNrZ3JvdW5kLWNvbG9yOiAjMDBmO1xcbiAgZGlzcGxheTogLXdlYmtpdC1ib3g7XFxuICBkaXNwbGF5OiAtbXMtZmxleGJveDtcXG4gIGRpc3BsYXk6IGZsZXg7XFxuICAtd2Via2l0LWJveC1wYWNrOiBjZW50ZXI7XFxuICAgICAgLW1zLWZsZXgtcGFjazogY2VudGVyO1xcbiAgICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjsgfVxcblwiLCBcIlwiLHtcInZlcnNpb25cIjozLFwic291cmNlc1wiOltcIi9Vc2Vycy90YWwvRG9jdW1lbnRzL3dlYnBhY2svd2VicGFjazQvc3JjL3N0eWxlL2JnLnNjc3NcIl0sXCJuYW1lc1wiOltdLFwibWFwcGluZ3NcIjpcIkFBQ0E7RUFDRSxzQkFGYTtFQUdiLG9CQUFhO0VBQWIsb0JBQWE7RUFBYixhQUFhO0VBQ2Isd0JBQXVCO01BQXZCLHFCQUF1QjtVQUF2Qix1QkFBdUIsRUFBQVwiLFwiZmlsZVwiOlwiYmcuc2Nzc1wiLFwic291cmNlc0NvbnRlbnRcIjpbXCIkYmctY29sb3I6ICMwMGY7XFxuLmJveHtcXG4gIGJhY2tncm91bmQtY29sb3I6ICRiZy1jb2xvcjtcXG4gIGRpc3BsYXk6IGZsZXg7XFxuICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcXG4gIC8vIGJhY2tncm91bmQ6IHVybCgnLi8uLi9hc3NldHMvc2t5LmpwZycpXFxufVwiXX1dKTtcbiJdLCJzb3VyY2VSb290IjoiIn0=
